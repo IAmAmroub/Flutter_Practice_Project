@@ -2,4 +2,7 @@
 
 #Exercice à faire et à rendre:
 #Flutter_Practice_Project/lib/pages/Form/student.registration.page.dart
+<<<<<<< HEAD
 
+=======
+>>>>>>> 82df62b (readme updated)
