@@ -107,7 +107,7 @@ class HomePage extends StatelessWidget {
             ListTile(
               trailing: const Icon(Icons.navigate_next),
               title: Text(
-                'Student Registration',
+                'Student Registration ',
                 style: txtStyle,
               ),
               onTap: () => Navigator.pushNamed(context, '/StudentRegistration'),
