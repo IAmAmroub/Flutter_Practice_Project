@@ -41,8 +41,8 @@ class _MyAppState extends State<MyApp> {
         '/DropDownButton': (context) => const DropDownButtonPage(),
         '/Form': (context) => const FormPage(),
         '/SliverAppBar': (context) => const SliverAppBarPage(),
-        '/PPage': (context) => const PPage(),
         '/StudentRegistration': (context) => const StudentRegistrationPage(),
+        '/PPage': (context) => const PPage(),
       },
       initialRoute: '/home',
     );
